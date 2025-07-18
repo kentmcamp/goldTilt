@@ -1,0 +1,11 @@
+.art-container {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+}
+.top-layer, .gold-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
